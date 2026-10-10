@@ -9,7 +9,7 @@ Get the latest version from **[Releases](https://github.com/miyurusagarage/invoi
 
 | Windows version | File |
 | --- | --- |
-| Windows 10 / 11 | `Invoice System_<version>_x64-setup.exe` (recommended) or `Invoice System_<version>_x64_en-US.msi` |
+| Windows 10 / 11 | `Invoice.System_<version>_x64-setup.exe` (recommended) or `Invoice.System_<version>_x64_en-US.msi` |
 
 ## Installing
 
